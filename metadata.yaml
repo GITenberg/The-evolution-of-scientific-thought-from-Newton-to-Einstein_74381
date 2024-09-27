@@ -1,11 +1,16 @@
 _repo: The-evolution-of-scientific-thought-from-Newton-to-Einstein_74381
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74381-h/images/cover.jpg
 creator:
   author:
     agent_name: D'Abro, Aram
     gutenberg_agent_id: '57478'
     url: http://www.gutenberg.org/2009/agents/57478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74381#The-evolution-of-scientific-thought-from-Newton-to-Einstein
 gutenberg_issued: '2024-09-06'
 gutenberg_type: Text
 identifiers:
